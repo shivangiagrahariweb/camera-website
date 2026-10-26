@@ -1,0 +1,16 @@
+.box{
+    background-image: url("./pic.png");
+    height: 150px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    border:5px solid purple;
+    /*
+    display:inline-block;
+    */
+
+    text-shadow: 2px 2px 2px red;
+
+}
+ 
